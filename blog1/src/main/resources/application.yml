@@ -1,0 +1,4 @@
+jwt:
+  secret: 1s3s1afa2344hjh42h4j2h5rj3g5h3
+  expire: 604800
+  header: Authorization
