@@ -10,6 +10,7 @@ public class Blog1Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Blog1Application.class, args);
+        //第二次提交
     }
 
 }
